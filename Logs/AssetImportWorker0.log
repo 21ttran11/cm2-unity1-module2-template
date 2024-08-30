@@ -490,3 +490,160 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 200.832379 seconds.
+  path: Assets/Prefab/Game Reset Area.prefab
+  artifactKey: Guid(dd648e5c2f56d418ebdae896402b1441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game Reset Area.prefab using Guid(dd648e5c2f56d418ebdae896402b1441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383da36ab0aecca80bbe766aece7fc65') in 0.063880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Prefab/SimpleFloorWithReset.prefab
+  artifactKey: Guid(3785100eba7624cadb970ef4ac148757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/SimpleFloorWithReset.prefab using Guid(3785100eba7624cadb970ef4ac148757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7dce6359e6d2db22ea533086b78222') in 0.507942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefab/Spawner.prefab
+  artifactKey: Guid(556517224ee0c4c56a609759d6164740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Spawner.prefab using Guid(556517224ee0c4c56a609759d6164740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5dc1e20ddc6affb4bbe65bbda07f32') in 0.004048 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Prefab/Project2Starter.prefab
+  artifactKey: Guid(59e361ea2588642959bd3b337e186a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Project2Starter.prefab using Guid(59e361ea2588642959bd3b337e186a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71811dd2e42fd8b32ce4e8d746d6f0ac') in 0.946678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 106
+========================================================================
+Received Import Request.
+  Time since last request: 2.502875 seconds.
+  path: Assets/Prefab/First Person Character.prefab
+  artifactKey: Guid(0e8fe436c1e2b184585dcf0eacce588b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/First Person Character.prefab using Guid(0e8fe436c1e2b184585dcf0eacce588b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d919f48bc425eec66c0a76f69874d4') in 0.140359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 92.764357 seconds.
+  path: Assets/Sounds/bang-sfx/bang_02.ogg
+  artifactKey: Guid(51773903528d04c3db57e156c8e43219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/bang_02.ogg using Guid(51773903528d04c3db57e156c8e43219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2aa87b5b39c70e98bfb23f6212ed63') in 0.048895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sounds/bang-sfx/bang_06.ogg
+  artifactKey: Guid(e2965947fab2e43e88f6993414f07a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/bang_06.ogg using Guid(e2965947fab2e43e88f6993414f07a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77871082fc2baf7bc6e1159738851644') in 0.021433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sounds/bang-sfx/bang_04.ogg
+  artifactKey: Guid(dbe0a0d898a804e11b083737a8065305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/bang_04.ogg using Guid(dbe0a0d898a804e11b083737a8065305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4224a8f2eb03756c710bf6b4162d26aa') in 0.020457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Sounds/bang-sfx/fw_01.ogg
+  artifactKey: Guid(ca07dd5d88dd841e89ad0359000809f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/fw_01.ogg using Guid(ca07dd5d88dd841e89ad0359000809f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc96d6c3f41779334b976dcd66edded') in 0.018931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sounds/bang-sfx/fw_05.ogg
+  artifactKey: Guid(99466d45ebf504e40b31220e41161cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/fw_05.ogg using Guid(99466d45ebf504e40b31220e41161cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a362d4a165a0afc695f187986812e8') in 0.015445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sounds/bang-sfx/cannon_05.ogg
+  artifactKey: Guid(1ca80626b379b49f7b48153baab008eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/cannon_05.ogg using Guid(1ca80626b379b49f7b48153baab008eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a6540297692a456e78588a801e1b9e') in 0.019553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sounds/bang-sfx/shot_03.ogg
+  artifactKey: Guid(8c383c184804a4974a4bf7aff25a0de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/shot_03.ogg using Guid(8c383c184804a4974a4bf7aff25a0de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd27b12b37030aba40030711be3fafc') in 0.023295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sounds/bang-sfx/cannon_01.ogg
+  artifactKey: Guid(d9aae50c463d34b43beb7b6cfb8a6cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/cannon_01.ogg using Guid(d9aae50c463d34b43beb7b6cfb8a6cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046511f63dff23841cbe2fa0fe20ca8b') in 0.018829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sounds/bang-sfx/bang_07.ogg
+  artifactKey: Guid(a6b3e0a113a144f20a01008aeca03081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/bang_07.ogg using Guid(a6b3e0a113a144f20a01008aeca03081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7283ee6c80bb1198ef39e4f01a8a71d6') in 0.018236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sounds/bang-sfx/bang_05.ogg
+  artifactKey: Guid(154d98a78dd6b4d47ae8016be022cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/bang_05.ogg using Guid(154d98a78dd6b4d47ae8016be022cf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb0fc9973e95deab9b90b774b577511') in 0.018042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sounds/bang-sfx/fw_02.ogg
+  artifactKey: Guid(601f003c562964a899af0933b7df7561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/fw_02.ogg using Guid(601f003c562964a899af0933b7df7561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3fbd2d2e0d0201da71a5db643a48be') in 0.020335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sounds/bang-sfx/shot_01.ogg
+  artifactKey: Guid(88cd51515b7e84558a5350101c297949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/shot_01.ogg using Guid(88cd51515b7e84558a5350101c297949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bcfaef0d5bd3746705241923bcf47b') in 0.018133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sounds/bang-sfx/fw_06.ogg
+  artifactKey: Guid(12fb57919e3594130ab70089a9a40b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/fw_06.ogg using Guid(12fb57919e3594130ab70089a9a40b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d626851b5f41fc91b848644bb5cae39') in 0.018024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Sounds/bang-sfx/fw_03.ogg
+  artifactKey: Guid(22beddb1fb8734a0c93a20bc9337859b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/bang-sfx/fw_03.ogg using Guid(22beddb1fb8734a0c93a20bc9337859b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a0c543175d4b29830aa6de7ed12b55') in 0.017187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
